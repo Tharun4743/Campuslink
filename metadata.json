@@ -1,0 +1,7 @@
+{
+  "name": "CampusLink",
+  "description": "Internal Learning and Talent Ecosystem for students.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}

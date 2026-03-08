@@ -1,0 +1,9 @@
+@echo off
+echo Starting CampusLink Learning Ecosystem...
+echo.
+echo Installing any missing dependencies just in case...
+call npm install
+echo.
+echo Starting the platform...
+npm run dev
+pause
