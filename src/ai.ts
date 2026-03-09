@@ -35,7 +35,7 @@ export async function getRecommendations(
     const response = await fetch("https://openrouter.ai/api/v1/chat/completions", {
       method: "POST",
       headers: {
-        "Authorization": `Bearer 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`,
+        "Authorization": ``,
         "Content-Type": "application/json"
       },
       body: JSON.stringify({
